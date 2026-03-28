@@ -6,7 +6,7 @@
 
 <!-- ✍️ Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&width=900&lines=Wassap%2C+I'm+DadoyPogi+%F0%9F%91%8B;Junior-Web+Developer+%7C+Frontend%2C+Backend+%F0%9F%9A%80;PHP+%7C+JavaScript+%7C+React+%7C+NextJS+%7C+Laravel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&width=900&lines=Wassap%2C+I'm+DadoyPogi+%F0%9F%91%8B;Web+Developer+%7C+Frontend%2C+Backend+%F0%9F%9A%80;PHP+%7C+JavaScript+%7C+React+%7C+NextJS+%7C+Laravel" alt="Typing SVG" />
 </h1>
 
 ### 🧠 Tech Stack
